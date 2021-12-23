@@ -20,5 +20,5 @@ if (salario > t) {
     alert(mensaje);
 } 
 else {
-    alert("Muchas gracias por querer nuestra financiación");
+    alert("Muchas gracias por solicitar nuestra financiación");
 }   
