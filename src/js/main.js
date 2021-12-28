@@ -1,4 +1,4 @@
-for (let i = 1; i <= 20; i++){
+for (let i = 1; i <= 10; i++){
     let ingresaNombre = prompt("Ingresa tu nombre"); 
     while (ingresaNombre != "") {
         alert("Turno N° " + i + " Nombre: " + ingresaNombre);
